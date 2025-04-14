@@ -4,9 +4,9 @@ A expense tracker app for managing transaction records &amp; balance of Incomes 
 Change The Port and MongoUrl in .env file.
 
 # To RUN backend 
-cd backend 
-npm install
-node app.js
+cd backend /n
+npm install /n 
+node app.js /n
 
 # To RUN Frontend
 cd frontend
