@@ -1,2 +1,13 @@
 # ExpenseTracker
 A expense tracker app for managing transaction records &amp; balance of Incomes or Expenses
+
+Change The Port and MongoUrl in .env file.
+
+To RUN 
+# cd backend 
+# npm install
+# node app.js
+
+#cd frontend
+# npm install
+# npm run dev
